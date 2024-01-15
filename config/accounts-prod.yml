@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Weloome to Accounts related Prod APIs"
+  contactDetails:
+    name: "Prod mithun"
+    email: "prodmithun@def.com"
+  onCallSupport:
+    - (555) 555-2323
+    - (555) 555-1998

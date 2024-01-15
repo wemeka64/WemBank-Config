@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Weloome to Accounts related QA APIs"
+  contactDetails:
+    name: "QA mithun"
+    email: "qamithun@def.com"
+  onCallSupport:
+    - (555) 555-5173
+    - (555) 555-1444
